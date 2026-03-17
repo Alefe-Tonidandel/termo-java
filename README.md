@@ -17,4 +17,4 @@ Clone do jogo Termo (Wordle) desenvolvido em Java para consolidar conceitos de P
 - make
 - make run
   
-Desenvolvido por Álefe Tonidandel durante o curso de Ciência da Computação na UFOP.
+Desenvolvido por Álefe Tonidandel durante a disciplina de Programação Oriantada a Objetos da UFOP.
