@@ -1,6 +1,6 @@
 # Jogo Termo - Java 🧩
 
-Clone do jogo Termo (Wordle) desenvolvido em Java, mas com algumas imlementações extras para consolidar conceitos de Programação Orientada a Objetos (POO).
+Clone do jogo Termo desenvolvido em Java, apresentando funcionalidades exclusivas e focado na aplicação prática de princípios de Programação Orientada a Objetos (POO).
 
 🚀 Funcionalidades
 - Lógica de verificação de letras (posições corretas e incorretas).
