@@ -11,4 +11,10 @@ Clone do jogo Termo (Wordle) desenvolvido em Java para consolidar conceitos de P
 - Java JDK 17+
 - Lógica de Programação Avançada
 
+
+⚙️ Como Executar
+- make clean
+- make
+- make run
+  
 Desenvolvido por Álefe Tonidandel durante o curso de Ciência da Computação na UFOP.
